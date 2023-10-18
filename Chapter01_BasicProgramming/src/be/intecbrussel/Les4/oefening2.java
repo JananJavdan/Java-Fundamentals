@@ -1,7 +1,5 @@
 package be.intecbrussel.Les4;
 
-import be.intecbrussel.Les2.oefening5.ScannerNumer;
-
 import java.util.Scanner;
 
 public class oefening2 {

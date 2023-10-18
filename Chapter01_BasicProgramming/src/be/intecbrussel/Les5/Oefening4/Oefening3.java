@@ -6,16 +6,17 @@ public class Oefening3 {
         boolean naam;
         boolean leeftijd;
         //Leeftijd begin van 0
-        int count=0;
+        int count = 0;
         System.out.println("leeftijd");
         System.out.println("naam");
-        while (leeftijd = false){
+        while (leeftijd = false) {
             count++;
-            System.out.println("leeftijd van vandaag"+count);
-            if (count==0);
+            System.out.println("leeftijd van vandaag" + count);
+            if (count == 0) ;
             {
                 break;
             }
 
         }
+    }
 }

@@ -3,7 +3,7 @@ package be.intecbrussel.Les2;
 public class BooleanExample {
     public static void main(String[] args) {
         int a = 10;
-        int b= 20;
+        int b = 20;
 
         boolean equal = (a == b);
         boolean notEqual = (a != b);
@@ -19,3 +19,4 @@ public class BooleanExample {
         System.out.println(biggerEqual);
         System.out.println(smallerEqual);
     }
+}

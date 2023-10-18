@@ -5,9 +5,12 @@ public class Oefening1 {
         int number01 = 253;
         long number02 = 2365L;
 
-         //cast de variabele naar double
-        double doubleNumber01 = (double) number01;
-        double doubleNumber02 = (double) number02;
-        System.out.println(myDouble);
+         //Manueel casting: int and long naar double
+         System.out.println("double number01:");
+        System.out.println("double number02:");
+        double myDouble;
+        System.out.println("myDouble");
+
+
     }
 }
